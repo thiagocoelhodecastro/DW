@@ -7,7 +7,9 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Teste NetBeens</title>
+        <link href="css/teste.css" type="text/css"
+              rel="stylesheet" />
     </head>
     <body>
         <?php

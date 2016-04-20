@@ -9,11 +9,11 @@ and open the template in the editor.
 */
 
 *{
-        color:#ee3e80;}
+        color:darkred}
 body {
         font-family: Arial, Verdana, sans-serif;}
 h1, h2 {
-        color:darkgoldenrod;}
+        color:darkblue;}
 p {
         color:darkblue
 }
